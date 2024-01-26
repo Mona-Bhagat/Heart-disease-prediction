@@ -8,7 +8,7 @@
 This project aims to build a Heart Disease Prediction system using Machine Learning Supervised learning Model - Logistic Regression.  The model predicts based on the given attributes of a patient, whether that particular person has heart disease or not
 
 # Data Sources
-Creditcard Data: The primary dataset used for this analysis is the multivariate type of dataset "heart_disease_data" file.
+The primary dataset used for this analysis is the multivariate type of dataset "heart_disease_data" file.
 
 
 # Tools
